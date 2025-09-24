@@ -1,0 +1,55 @@
+com.example.screenphonelogin.app-lifecycle-runtime-compose-release-0 C:\Users\Admin\.gradle\caches\8.13\transforms\087e06b8197f21ca05bf9a19d651457e\transformed\lifecycle-runtime-compose-release\res
+com.example.screenphonelogin.app-foundation-release-1 C:\Users\Admin\.gradle\caches\8.13\transforms\114b81b056fde303834a30e703cfdd4b\transformed\foundation-release\res
+com.example.screenphonelogin.app-core-1.17.0-2 C:\Users\Admin\.gradle\caches\8.13\transforms\126d76026015942bb79c942ca99beca1\transformed\core-1.17.0\res
+com.example.screenphonelogin.app-lifecycle-livedata-core-ktx-2.9.4-3 C:\Users\Admin\.gradle\caches\8.13\transforms\1280349fb157c7893a7143fcf459a9c7\transformed\lifecycle-livedata-core-ktx-2.9.4\res
+com.example.screenphonelogin.app-appcompat-1.2.0-4 C:\Users\Admin\.gradle\caches\8.13\transforms\131257ec9c6ad372aae7ec23d995966b\transformed\appcompat-1.2.0\res
+com.example.screenphonelogin.app-lifecycle-viewmodel-release-5 C:\Users\Admin\.gradle\caches\8.13\transforms\1c441e2f47bf1996f9e3ffadcd3421b3\transformed\lifecycle-viewmodel-release\res
+com.example.screenphonelogin.app-material-icons-core-release-6 C:\Users\Admin\.gradle\caches\8.13\transforms\1ee6fd9c07d2051a0f624841e5d7ca65\transformed\material-icons-core-release\res
+com.example.screenphonelogin.app-foundation-layout-release-7 C:\Users\Admin\.gradle\caches\8.13\transforms\2292624cb1368dda1d3bafa01ddebb5b\transformed\foundation-layout-release\res
+com.example.screenphonelogin.app-activity-1.11.0-8 C:\Users\Admin\.gradle\caches\8.13\transforms\248fb9fd3a9d53bd074826fecd9cdaad\transformed\activity-1.11.0\res
+com.example.screenphonelogin.app-material-release-9 C:\Users\Admin\.gradle\caches\8.13\transforms\29459906fc958579415c2df9c59db5ea\transformed\material-release\res
+com.example.screenphonelogin.app-appcompat-resources-1.2.0-10 C:\Users\Admin\.gradle\caches\8.13\transforms\30ed3f911adee73eca4f80639151f737\transformed\appcompat-resources-1.2.0\res
+com.example.screenphonelogin.app-ui-tooling-release-11 C:\Users\Admin\.gradle\caches\8.13\transforms\42c1f7206b47486fc952967db46fd64d\transformed\ui-tooling-release\res
+com.example.screenphonelogin.app-savedstate-ktx-1.3.1-12 C:\Users\Admin\.gradle\caches\8.13\transforms\48a69baaf7dffd49e8730f84a3bc08dd\transformed\savedstate-ktx-1.3.1\res
+com.example.screenphonelogin.app-graphics-path-1.0.1-13 C:\Users\Admin\.gradle\caches\8.13\transforms\4baf8d9615c243e29e77798247f9046a\transformed\graphics-path-1.0.1\res
+com.example.screenphonelogin.app-annotation-experimental-1.4.1-14 C:\Users\Admin\.gradle\caches\8.13\transforms\4c67fce9c31f2f4fad5b0cf0e8f9fc29\transformed\annotation-experimental-1.4.1\res
+com.example.screenphonelogin.app-ui-geometry-release-15 C:\Users\Admin\.gradle\caches\8.13\transforms\55810803bda3034bc426a03e5780518f\transformed\ui-geometry-release\res
+com.example.screenphonelogin.app-animation-core-release-16 C:\Users\Admin\.gradle\caches\8.13\transforms\64f88618c6a80f07128508a33f7a396c\transformed\animation-core-release\res
+com.example.screenphonelogin.app-savedstate-compose-release-17 C:\Users\Admin\.gradle\caches\8.13\transforms\65368d40b6e9d18f81f78b8e44363007\transformed\savedstate-compose-release\res
+com.example.screenphonelogin.app-lifecycle-livedata-2.9.4-18 C:\Users\Admin\.gradle\caches\8.13\transforms\6ab005046a9def46725f64f3f8e29dc0\transformed\lifecycle-livedata-2.9.4\res
+com.example.screenphonelogin.app-ui-util-release-19 C:\Users\Admin\.gradle\caches\8.13\transforms\71a170f9c337807f3b8d578d24940c36\transformed\ui-util-release\res
+com.example.screenphonelogin.app-material-ripple-release-20 C:\Users\Admin\.gradle\caches\8.13\transforms\77e72abc336c7e2fc37ecd411d68553e\transformed\material-ripple-release\res
+com.example.screenphonelogin.app-lifecycle-process-2.9.4-21 C:\Users\Admin\.gradle\caches\8.13\transforms\7ca1b19c665da04c44616aa32a284d49\transformed\lifecycle-process-2.9.4\res
+com.example.screenphonelogin.app-ui-tooling-data-release-22 C:\Users\Admin\.gradle\caches\8.13\transforms\7ff3043225d416d5d36ca6d00e97b31e\transformed\ui-tooling-data-release\res
+com.example.screenphonelogin.app-customview-poolingcontainer-1.0.0-23 C:\Users\Admin\.gradle\caches\8.13\transforms\81b03f6b311005471468589626fe6c15\transformed\customview-poolingcontainer-1.0.0\res
+com.example.screenphonelogin.app-core-ktx-1.17.0-24 C:\Users\Admin\.gradle\caches\8.13\transforms\9704591ca398760cdd6192c71e189de6\transformed\core-ktx-1.17.0\res
+com.example.screenphonelogin.app-profileinstaller-1.4.0-25 C:\Users\Admin\.gradle\caches\8.13\transforms\98f3ad920b32003aae7e917620ff4819\transformed\profileinstaller-1.4.0\res
+com.example.screenphonelogin.app-core-viewtree-1.0.0-26 C:\Users\Admin\.gradle\caches\8.13\transforms\a9a81348556ee50e9f75ca60b446aa3d\transformed\core-viewtree-1.0.0\res
+com.example.screenphonelogin.app-savedstate-release-27 C:\Users\Admin\.gradle\caches\8.13\transforms\af55df52c8be56c64095efee1a9aa978\transformed\savedstate-release\res
+com.example.screenphonelogin.app-ui-release-28 C:\Users\Admin\.gradle\caches\8.13\transforms\af8874727988fd21bcdcadfaf9f06e8f\transformed\ui-release\res
+com.example.screenphonelogin.app-lifecycle-viewmodel-ktx-2.9.4-29 C:\Users\Admin\.gradle\caches\8.13\transforms\b058f820789dc6ce9c8b8f4888e79414\transformed\lifecycle-viewmodel-ktx-2.9.4\res
+com.example.screenphonelogin.app-ui-unit-release-30 C:\Users\Admin\.gradle\caches\8.13\transforms\bcd1820abf5f4a065abc7113a83e7be7\transformed\ui-unit-release\res
+com.example.screenphonelogin.app-ui-tooling-preview-release-31 C:\Users\Admin\.gradle\caches\8.13\transforms\bd6efe2974ae5583ae740b39b435453f\transformed\ui-tooling-preview-release\res
+com.example.screenphonelogin.app-ui-text-release-32 C:\Users\Admin\.gradle\caches\8.13\transforms\c73d150221c2e5200c3cd2621621e821\transformed\ui-text-release\res
+com.example.screenphonelogin.app-lifecycle-runtime-release-33 C:\Users\Admin\.gradle\caches\8.13\transforms\c9df4eae7de25e11a84c79ac6afdf05a\transformed\lifecycle-runtime-release\res
+com.example.screenphonelogin.app-tracing-1.2.0-34 C:\Users\Admin\.gradle\caches\8.13\transforms\ceefe1fa9c25a7759ae808be3a66a815\transformed\tracing-1.2.0\res
+com.example.screenphonelogin.app-core-runtime-2.2.0-35 C:\Users\Admin\.gradle\caches\8.13\transforms\cfdba96bdeb4392727d1f3bff6034ba5\transformed\core-runtime-2.2.0\res
+com.example.screenphonelogin.app-startup-runtime-1.1.1-36 C:\Users\Admin\.gradle\caches\8.13\transforms\d6de1f09ad402ce0254424b678890d14\transformed\startup-runtime-1.1.1\res
+com.example.screenphonelogin.app-emoji2-1.3.0-37 C:\Users\Admin\.gradle\caches\8.13\transforms\dce94ee36b544853505f233b546b34ed\transformed\emoji2-1.3.0\res
+com.example.screenphonelogin.app-constraintlayout-2.2.1-38 C:\Users\Admin\.gradle\caches\8.13\transforms\df0e70972aee2d1c8bc797a33f32589d\transformed\constraintlayout-2.2.1\res
+com.example.screenphonelogin.app-animation-release-39 C:\Users\Admin\.gradle\caches\8.13\transforms\dfc6bcb9730753db8b6666e181016069\transformed\animation-release\res
+com.example.screenphonelogin.app-lifecycle-viewmodel-savedstate-release-40 C:\Users\Admin\.gradle\caches\8.13\transforms\e59bedf22d0ca80aed2bc79db7df57a5\transformed\lifecycle-viewmodel-savedstate-release\res
+com.example.screenphonelogin.app-ui-test-manifest-1.7.0-41 C:\Users\Admin\.gradle\caches\8.13\transforms\ec894b7dff35ccaa6ad01611e9146c11\transformed\ui-test-manifest-1.7.0\res
+com.example.screenphonelogin.app-lifecycle-livedata-core-2.9.4-42 C:\Users\Admin\.gradle\caches\8.13\transforms\f1f1763fc56207d471cc568c90a4966d\transformed\lifecycle-livedata-core-2.9.4\res
+com.example.screenphonelogin.app-activity-ktx-1.11.0-43 C:\Users\Admin\.gradle\caches\8.13\transforms\f29eba9da2a9fd3e416df0d48a2ad8b1\transformed\activity-ktx-1.11.0\res
+com.example.screenphonelogin.app-activity-compose-1.11.0-44 C:\Users\Admin\.gradle\caches\8.13\transforms\f590c69dc7773bd54a1747743ee9f345\transformed\activity-compose-1.11.0\res
+com.example.screenphonelogin.app-material3-release-45 C:\Users\Admin\.gradle\caches\8.13\transforms\fe62949502a0f79090a5d8612ab49a4b\transformed\material3-release\res
+com.example.screenphonelogin.app-ui-graphics-release-46 C:\Users\Admin\.gradle\caches\8.13\transforms\fe6cd3754e3b1bc0e22d53e9e923d90e\transformed\ui-graphics-release\res
+com.example.screenphonelogin.app-pngs-47 D:\CNTT\HK 2025\ScreenPhoneLogin\app\build\generated\res\pngs\debug
+com.example.screenphonelogin.app-resValues-48 D:\CNTT\HK 2025\ScreenPhoneLogin\app\build\generated\res\resValues\debug
+com.example.screenphonelogin.app-updated_navigation_xml-49 D:\CNTT\HK 2025\ScreenPhoneLogin\app\build\generated\updated_navigation_xml\debug
+com.example.screenphonelogin.app-packageDebugResources-50 D:\CNTT\HK 2025\ScreenPhoneLogin\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.screenphonelogin.app-packageDebugResources-51 D:\CNTT\HK 2025\ScreenPhoneLogin\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.screenphonelogin.app-debug-52 D:\CNTT\HK 2025\ScreenPhoneLogin\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.screenphonelogin.app-debug-53 D:\CNTT\HK 2025\ScreenPhoneLogin\app\src\debug\res
+com.example.screenphonelogin.app-main-54 D:\CNTT\HK 2025\ScreenPhoneLogin\app\src\main\res
