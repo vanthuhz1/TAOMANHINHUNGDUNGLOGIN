@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
+    android:background="#ADA9A9"
     tools:context=".LoginActivity">
 
     <!-- Title -->
@@ -13,9 +13,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="60dp"
+        android:fontFamily="serif"
         android:text="Login Here"
         android:textAlignment="center"
-        android:textColor="#1F41BB"
+        android:textColor="#CA4141"
         android:textSize="60sp"
         android:textStyle="normal|bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -30,7 +31,7 @@
         android:layout_marginTop="12dp"
         android:text="Welcome back, you’ve been missed!"
         android:textAlignment="center"
-        android:textColor="#555555"
+        android:textColor="#782D2D"
         android:textSize="14sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -59,8 +60,8 @@
         android:layout_marginTop="8dp"
         android:background="@drawable/edittext_bg"
         android:hint="Enter your email"
-        android:padding="12dp"
         android:inputType="textEmailAddress"
+        android:padding="12dp"
         android:textSize="14sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -89,8 +90,8 @@
         android:layout_marginTop="8dp"
         android:background="@drawable/edittext_bg"
         android:hint="Enter your password"
-        android:padding="12dp"
         android:inputType="textPassword"
+        android:padding="12dp"
         android:textSize="14sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -103,7 +104,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="24dp"
         android:text="Forgot your password?"
-        android:textColor="#1F41BB"
+        android:textColor="#000000"
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/editTextTextPassword" />
@@ -115,8 +116,8 @@
         android:layout_height="55dp"
         android:layout_marginHorizontal="24dp"
         android:layout_marginTop="24dp"
-        android:backgroundTint="#1F41BB"
-        android:text="Sign In"
+        android:backgroundTint="#CA4141"
+        android:text="SIGN IN"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -132,7 +133,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="Create new account"
-        android:textColor="#1F41BB"
+        android:textColor="#000000"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -145,27 +146,29 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="28dp"
         android:text="Or continue with"
-        android:textColor="#888888"
+        android:textColor="#000000"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/textView8" />
 
     <!-- Social Login Buttons -->
+
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.644"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/textView9">
 
         <ImageView
             android:layout_width="40dp"
             android:layout_height="40dp"
-            android:src="@drawable/iconfb"
-            android:contentDescription="Facebook login" />
+            android:contentDescription="Facebook login"
+            android:src="@drawable/iconfb" />
 
         <Space
             android:layout_width="24dp"
@@ -174,8 +177,17 @@
         <ImageView
             android:layout_width="40dp"
             android:layout_height="40dp"
-            android:src="@drawable/icongg"
-            android:contentDescription="Google login" />
+            android:contentDescription="Google login"
+            android:src="@drawable/icongg" />
     </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/_689123"
+        app:layout_constraintTop_toBottomOf="@+id/textView9"
+        tools:layout_editor_absoluteX="133dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
